@@ -1,3 +1,7 @@
+set backspace=indent,eol,start
+set hlsearch
+set incsearch
+
 set ts=4		" tab 크기를 4칸으로
 set sw=4
 set cindent
